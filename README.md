@@ -6,6 +6,7 @@ I'm Ollie from England and i'm a developer who is passionate about all things Ja
 
 ## Skills and Experience
 * 💻 HTML, CSS, JS
+* ⌨ Git
 * 🎨 Materialize
 
 ## Socials
